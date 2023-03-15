@@ -1,4 +1,4 @@
-Followed a tutorial which build a PDF extracting program that fetches text from a user-selected file. import tkinter as tk import PyPDF2 from PIL import Image, ImageTk from tkinter.filedialog import askopenfile
+# Followed a tutorial which build a PDF extracting program that fetches text from a user-selected file. import tkinter as tk import PyPDF2 from PIL import Image, ImageTk from tkinter.filedialog import askopenfile
 
 root = tk.Tk()
 
